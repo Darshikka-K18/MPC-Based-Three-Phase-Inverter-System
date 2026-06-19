@@ -8,7 +8,6 @@ Designed and simulated a 1 kW three-phase DC-AC inverter in MATLAB/Simulink usin
 
 For an in-depth look at the mathematical modeling, state-space equations, Simulink block diagrams, and detailed THD analysis, please refer to the full project documentation:
 [**📄 View the Full PDF Report**](./DC–AC%20Three-Phase%20Inverter%20using%20Model%20Predictive%20Control.pdf)
-*(Note: Be sure to upload the PDF to your repository. If you place it inside a folder, just update the link path accordingly!)*
 
 ##  Key Features
 
